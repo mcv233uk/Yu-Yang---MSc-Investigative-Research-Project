@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [RTGEN 206-101] RTL name 'cnn_stream_top_mubil' is changed to 'cnn_stream_top_mubil_x' due to conflict." projectName="CNN_HLS2" solutionName="solution1" date="2025-08-11T03:12:01.031+0800" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'window_V_2_2_7' is power-on initialization." projectName="CNN_HLS2" solutionName="solution1" date="2025-08-11T03:12:00.842+0800" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'window_V_2_2_6' is power-on initialization." projectName="CNN_HLS2" solutionName="solution1" date="2025-08-11T03:12:00.809+0800" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'window_V_2_2_5' is power-on initialization." projectName="CNN_HLS2" solutionName="solution1" date="2025-08-11T03:12:00.804+0800" type="Warning"/>
+        <logs message="WARNING: [RTGEN 206-101] Register 'window_V_2_2_4' is power-on initialization." projectName="CNN_HLS2" solutionName="solution1" date="2025-08-11T03:12:00.797+0800" type="Warning"/>
+      </synLog>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>
